@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently mastering **Python, Tableau, R, MySQL, Azure, Apache Spark, Hadoop, SAS, Artificial intellegence and Deep learning**
 
-- 📫 You can reach me on my email id **patilvaishnavi421@gmail.com**
+- 📫 You can reach me on my email id **dnyaneshmahajan229@gmail.com**
 
 ## `Projects:`
-### [Reliance Stock Market Prediction] (https://github.com/vaishnavi2292/Reliance-Stock-Market-Analysis-)
-### [Linkedin-data-analyst-job-analysis](https://github.com/vaishnavi2292/Linkedin-data-analyst-job-analysis)
+### [Reliance Stock Market Prediction] (https://github.com/dnyanesh229/Reliance-Stock-Market-Analysis-)
+### [Breast Cancer Survival Prediction](https://github.com/dnyanesh229/Breast-Cancer-Survival-Prediction-with-Machine-Learning)
 
 <img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
 
@@ -41,10 +41,8 @@ href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:
 
 ## `Connect with me:`
 <p align="left">
-<a href="https://www.linkedin.com/in/vaishnavi-patil-2b978b20b" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="Vaishnavi Patil" height="50" width="50" /></a>
-<a href="https://www.kaggle.com/vaishnavi2292" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png" alt="Vaishnavi Patil" height="40" width="40" /></a>
-<a href="https://twitter.com/Vaishna25645386" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/twitter.png" alt="MoinDalvs" height="40" width="40" /></a>
-<a href="https://mail.google.com/mail/u/1/#inbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/dnyanesh-mahajan-a929a720a/" target="blank"><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="Vaishnavi Patil" height="50" width="50" /></a>
+<a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="40" width="40" /></a>
 </p>
 
 ![Filter Method](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
