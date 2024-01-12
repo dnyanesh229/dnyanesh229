@@ -1,4 +1,4 @@
-![Linkedin_Cover_-_Data_Scientist_py4mog](https://user-images.githubusercontent.com/99672298/186088252-ef41cefc-cda7-49e8-960d-efbd59d3696c.jpg)
+![Linkedin_Cover_-_Data_Scientist_py4mog](https://www.uat.edu/media/data-science-banner.png)
 
 <h1 align="center">Hi 👋, I'm Dnyanesh</h1>
 <h3 align="center">A passionate Data Science Enthusiast</h3>
@@ -19,7 +19,7 @@
 ### [Reliance Stock Market Prediction] (https://github.com/dnyanesh229/Reliance-Stock-Market-Analysis-)
 ### [Breast Cancer Survival Prediction] (https://github.com/dnyanesh229/Breast-Cancer-Survival-Prediction-with-Machine-Learning)
 
-<img align="right" alt="code"  height="400" width="400" src = "https://user-images.githubusercontent.com/94888819/179503858-d2f6d197-7a3f-495b-888c-5a60679bed94.gif"> 
+<img align="right" alt="code"  height="350" width="400" src = "https://camo.githubusercontent.com/7cc23e0e0f7ea2746886cb586319a6ec288a5be8bc4eddacfd3581fa6560d97e/68747470733a2f2f7777772e636f6465636f726e6572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f73656e696f722d66726f6e742d656e642d646576656c6f7065722d6f70656e696e67732d312e676966"> 
 
 ## `Tools:`
 <img align="left" src="https://user-images.githubusercontent.com/94888819/179538709-781ca826-4b36-42e7-aeda-ad6b07e719ea.png" alt="pp" width="50" height="50" /> </a>
